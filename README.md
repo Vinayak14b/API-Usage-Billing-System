@@ -1,16 +1,7 @@
 
-# EB Billing System
-
-<img src="https://github.com/user-attachments/assets/30f13ea0-fe01-4f32-b6ef-f879dbbe0ab2" alt="EB Billing System" width="300"/>
-
-*Image for illustrative purposes only, sourced from Tamil Nadu Generation and Distribution Corporation Limited.*
-
-
----
-
 ## Overview
 
-The **EB Billing System** is a comprehensive, modern platform for managing electricity billing processes. Built with **Spring Boot**, **JWT**, and **React.js**, the system provides a secure, scalable, and user-friendly solution. The platform automates bill generation, payment processing, and integrated with **Razorpay** for seamless online transactions.
+The **API Usage Billing System** is a comprehensive, modern platform for managing electricity billing processes. Built with **Spring Boot**, **JWT**, and **React.js**, the system provides a secure, scalable, and user-friendly solution. The platform automates bill generation, payment processing, and integrated with **Razorpay** for seamless online transactions.
 
 ### Key Features
 
@@ -24,7 +15,7 @@ The **EB Billing System** is a comprehensive, modern platform for managing elect
 
 ## Development Lifecycle
 
-The development of the EB Billing System was completed over a span of 16 days. Below is a detailed breakdown of the process:
+The development of the API Usage Billing System was completed over a span of 16 days. Below is a detailed breakdown of the process:
 
 - **Day 1-2: Planning & Design**
   - Defined project scope and requirements.
@@ -62,7 +53,7 @@ The development of the EB Billing System was completed over a span of 16 days. B
 
 ## Business Case
 
-The EB Billing System addresses inefficiencies and complexities associated with manual billing processes. By automating bill generation and payment collection, the system reduces operational costs, minimizes errors, and enhances customer satisfaction. The integration with Razorpay ensures secure and convenient payment options, making it easier for users to pay their bills on time.
+The API Usage Billing System addresses inefficiencies and complexities associated with manual billing processes. By automating bill generation and payment collection, the system reduces operational costs, minimizes errors, and enhances customer satisfaction. The integration with Razorpay ensures secure and convenient payment options, making it easier for users to pay their bills on time.
 
 ---
 
@@ -71,7 +62,8 @@ The EB Billing System addresses inefficiencies and complexities associated with 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ShashwanthN/EB-Billing-System.git
+   git clone  https://github.com/Vinayak14b/API-Usage-Billing-System.git
+
 3. **Backend Setup**:
    - Navigate to the `eb-billing-system` directory.
    - Configure the `.env` file with your database credentials and other environment variables.
@@ -113,31 +105,6 @@ The EB Billing System addresses inefficiencies and complexities associated with 
 ---
 
 
-## Images of Interfaces
-
-![Register](https://github.com/user-attachments/assets/ed813018-bc0a-4144-be4b-326086971dbf)
-## 
-![OTP Verification](https://github.com/user-attachments/assets/d80eeda4-1b40-4b6e-85b5-6f519d0dc63d)
-## 
-![Login](https://github.com/user-attachments/assets/a228d587-85be-445d-ba2a-ac09fc1bd168)
-## 
-![Home](https://github.com/user-attachments/assets/8e741725-f700-4c74-909a-7604048d45ab)
-## 
-![Bills](https://github.com/user-attachments/assets/a95f1214-f02b-4dde-88ab-07ea7905525a)
-## 
-![Bills Confirmation](https://github.com/user-attachments/assets/89c4405b-24b2-4f94-a9f6-7040a8b6f8a5)
-## 
-![Bills Reading](https://github.com/user-attachments/assets/9e40e057-8b7e-4213-aebd-9cbabe8f3e16)
-## 
-![Service Registration](https://github.com/user-attachments/assets/3605f6f6-817b-4548-927e-695746c3c5ea)
-## 
-![Payment for Service Registration](https://github.com/user-attachments/assets/ef1645fb-c4f0-47ca-86a9-a927dd51675a)
-## 
-![Update Info](https://github.com/user-attachments/assets/30c73335-8975-4cd1-a436-af002541ca7c)
-## 
-![Calculation](https://github.com/user-attachments/assets/ff048387-bc12-4131-9dfd-a865da4317cf)
-## 
-![Payment Receipt](https://github.com/user-attachments/assets/35959d7a-3d8f-4f18-a2cc-a9348e0a9baf)
 ## 
 
 ---
